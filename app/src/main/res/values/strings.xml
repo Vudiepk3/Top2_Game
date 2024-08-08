@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Top2_Game</string>
+    <string name="batdau">Start Game</string>
+    <string name="caidat">Settings</string>
+    <string name="thoat">Exit</string>
+    <string name="todo">TODO</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+    <string name="instruct">Instructions</string>
+    <string name="thanks_for_watching">Thanks For Watching!</string>
+    <string name="ok">OK</string>
 </resources>
