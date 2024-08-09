@@ -25,7 +25,7 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/batdau">
+        android:text="@string/start">
 
     </Button>
 
@@ -44,7 +44,7 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/caidat">
+        android:text="@string/setting">
     </Button>
 
     <Button
@@ -53,7 +53,7 @@
         android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="@string/thoat">
+        android:text="@string/exit">
 
     </Button>
 

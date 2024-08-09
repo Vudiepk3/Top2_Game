@@ -44,7 +44,6 @@
             android:layout_height="wrap_content"
             android:paddingStart="10dp"
             android:paddingTop="10dp"
-            android:text="@string/thanks_for_watching"
             android:textColor="@color/black"
             android:textSize="20sp"
             tools:ignore="RtlSymmetry" />

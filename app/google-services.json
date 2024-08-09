@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657284319471",
+    "project_id": "top2-game",
+    "storage_bucket": "top2-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657284319471:android:20152780228ad3cdf6731a",
+        "android_client_info": {
+          "package_name": "com.example.top2_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbULCQhEnWCM89mzUjCbdUKS5Srk1ThP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
